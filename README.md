@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nc2021
+- 👀 I’m interested in e-mail and website coding.
+- 🌱 I’m currently learning html and CSS.
